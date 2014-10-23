@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Meganekko" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="Ui/;Data/;Common/;External/;External/TinyXml/;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Meganekko" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Meganekko" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="`wx-config --cppflags`" />
+		</Compiler>
+		<Linker>
+			<Add option="`wx-config --libs`" />
+		</Linker>
+		<Unit filename="AppMeganekko.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="AppMeganekko.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="Common.cpp">
+			<Option virtualFolder="Common/" />
+		</Unit>
+		<Unit filename="Common.h">
+			<Option virtualFolder="Common/" />
+		</Unit>
+		<Unit filename="DialogAbout.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogAbout.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCard.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCard.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCardEditor.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCardEditor.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCardManager.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogCardManager.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogOptions.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="DialogOptions.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="FlashCard.cpp">
+			<Option virtualFolder="Data/" />
+		</Unit>
+		<Unit filename="FlashCard.h">
+			<Option virtualFolder="Data/" />
+		</Unit>
+		<Unit filename="FlashCardManager.cpp">
+			<Option virtualFolder="Data/" />
+		</Unit>
+		<Unit filename="FlashCardManager.h">
+			<Option virtualFolder="Data/" />
+		</Unit>
+		<Unit filename="FlashCardManagerXml.cpp">
+			<Option virtualFolder="Data/" />
+		</Unit>
+		<Unit filename="FrameMeganekko.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="FrameMeganekko.h">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="Pch.h">
+			<Option compile="1" />
+			<Option weight="0" />
+			<Option virtualFolder="Common/" />
+		</Unit>
+		<Unit filename="Resource.cpp">
+			<Option virtualFolder="Ui/" />
+		</Unit>
+		<Unit filename="Util.cpp">
+			<Option virtualFolder="External/" />
+		</Unit>
+		<Unit filename="Util.h">
+			<Option virtualFolder="External/" />
+		</Unit>
+		<Unit filename="tinystr.cpp">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Unit filename="tinystr.h">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Unit filename="tinyxml.cpp">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Unit filename="tinyxml.h">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Unit filename="tinyxmlerror.cpp">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Unit filename="tinyxmlparser.cpp">
+			<Option virtualFolder="External/TinyXml/" />
+		</Unit>
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
