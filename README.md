@@ -10,7 +10,7 @@ discovered [Anki](http://ankisrs.net/), a much more mature and feature-rich appl
 The full [source code](https://github.com/FooSoft/meganekko/) is available on my GitHub page. Below are some screenshots
 of the application running on Linux.
 
-### Screenshots ###
+## Screenshots
 
 ![](index/main.png)
 
