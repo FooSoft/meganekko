@@ -12,8 +12,8 @@ of the application running on Linux.
 
 ## Screenshots
 
-![](index/main.png)
+![](http://foosoft.net/projects/meganekko/img/main.png)
 
-![](index/editor.png)
+![](http://foosoft.net/projects/meganekko/img/editor.png)
 
-![](index/review.png)
+![](http://foosoft.net/projects/meganekko/img/review.png)
