@@ -9,11 +9,11 @@ discovered [Anki](http://ankisrs.net/), a much more mature and feature-rich appl
 
 ## Screenshots ##
 
-[![Main window](img/main-thumb.png)](img/main.png)
-[![Card editor](img/editor-thumb.png)](img/editor.png)
-[![Options dialog](img/options-thumb.png)](img/options.png)
-[![Flash card question](img/review1-thumb.png)](img/review1.png)
-[![Flash card answer](img/review2-thumb.png)](img/review2.png)
+[![Main window](https://foosoft.net/projects/meganekko/img/main-thumb.png)](https://foosoft.net/projects/meganekko/img/main.png)
+[![Card editor](https://foosoft.net/projects/meganekko/img/editor-thumb.png)](https://foosoft.net/projects/meganekko/img/editor.png)
+[![Options dialog](https://foosoft.net/projects/meganekko/img/options-thumb.png)](https://foosoft.net/projects/meganekko/img/options.png)
+[![Flash card question](https://foosoft.net/projects/meganekko/img/review1-thumb.png)](https://foosoft.net/projects/meganekko/img/review1.png)
+[![Flash card answer](https://foosoft.net/projects/meganekko/img/review2-thumb.png)](https://foosoft.net/projects/meganekko/img/review2.png)
 
 ## License ##
 
