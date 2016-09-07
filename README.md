@@ -1,4 +1,3 @@
-# Meganekko #
 
 Meganekko was a flash card program that I developed to make it easier to remember Japanese vocabulary and Kanji. It was
 based on the principles of the [Leitner system](http://en.wikipedia.org/wiki/Leitner_system) and took advantage of
