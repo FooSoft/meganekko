@@ -1,4 +1,4 @@
-# Meganekko #
+# Meganekko
 
 Meganekko was a flash card program that I developed to make it easier to remember Japanese vocabulary and Kanji. It was
 based on the principles of the [Leitner system](http://en.wikipedia.org/wiki/Leitner_system) and took advantage of
@@ -8,7 +8,7 @@ files for Visual Studio are also available). Flashcard data was serialized to XM
 Although Meganekko eventually matured to a usable state, I stopped development after I discovered Anki, a more mature
 and feature-rich application.
 
-## Screenshots ##
+## Screenshots
 
 [![Main window](https://foosoft.net/projects/meganekko/img/main-thumb.png)](https://foosoft.net/projects/meganekko/img/main.png)
 [![Card editor](https://foosoft.net/projects/meganekko/img/editor-thumb.png)](https://foosoft.net/projects/meganekko/img/editor.png)
