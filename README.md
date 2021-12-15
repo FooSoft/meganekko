@@ -1,3 +1,12 @@
+<!-- +++
+Area = "projects"
+GitHub = "meganekko"
+Layout = "page"
+Tags = ["cpp", "japanese", "meganekko", "wxwidgets", "tinyxml", "gpl license"]
+Description = "Flash card program I created and used prior to switching to Anki."
+Collection = "ProjectsAbandoned"
++++ -->
+
 # Meganekko
 
 Meganekko was a flash card program that I developed to make it easier to remember Japanese vocabulary and Kanji. It was
@@ -8,8 +17,8 @@ files for Visual Studio are also available). Flashcard data was serialized to XM
 Although Meganekko eventually matured to a usable state, I stopped development after I discovered Anki, a more mature
 and feature-rich application.
 
-[![Main window](https://foosoft.net/projects/meganekko/img/main-thumb.png)](https://foosoft.net/projects/meganekko/img/main.png)
-[![Card editor](https://foosoft.net/projects/meganekko/img/editor-thumb.png)](https://foosoft.net/projects/meganekko/img/editor.png)
-[![Options dialog](https://foosoft.net/projects/meganekko/img/options-thumb.png)](https://foosoft.net/projects/meganekko/img/options.png)
-[![Flash card question](https://foosoft.net/projects/meganekko/img/review1-thumb.png)](https://foosoft.net/projects/meganekko/img/review1.png)
-[![Flash card answer](https://foosoft.net/projects/meganekko/img/review2-thumb.png)](https://foosoft.net/projects/meganekko/img/review2.png)
+[![Main window](img/main-thumb.png)](img/main.png)
+[![Card editor](img/editor-thumb.png)](img/editor.png)
+[![Options dialog](img/options-thumb.png)](img/options.png)
+[![Flash card question](img/review1-thumb.png)](img/review1.png)
+[![Flash card answer](img/review2-thumb.png)](img/review2.png)
