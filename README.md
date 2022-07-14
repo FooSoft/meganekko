@@ -1,12 +1,3 @@
-<!-- +++
-Area = "projects"
-GitHub = "meganekko"
-Layout = "page"
-Tags = ["cpp", "japanese", "meganekko", "wxwidgets", "tinyxml", "gpl license"]
-Description = "Flash card program I created and used prior to switching to Anki."
-Collection = "ProjectsAbandoned"
-+++ -->
-
 # Meganekko
 
 Meganekko was a flash card program that I developed to make it easier to remember Japanese vocabulary and Kanji. It was
